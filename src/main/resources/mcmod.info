@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "${modid}",
+        "name": "AntiRat",
+        "description": "say bye bye to rats",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
